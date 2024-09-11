@@ -137,7 +137,7 @@ border:2px solid black;
     z-index: 10;
     border: 1px solid white;
     border-radius: 50%;
-    background-image: url(./image/dp.png);
+    background-image: url(./img/dp.png);
     background-size: cover;
     /* aspect-ratio: auto; */
      /* box-shadow:     0px 0px 100px 10px blue    ;  */
@@ -148,7 +148,7 @@ border:2px solid black;
     width:100%;
     /* backdrop-filter: drop-shadow(80px 50px 20px); */
     display:flex;
-    background-image: url("./image/riya.jpg");
+    background-image: url("./img/riya.jpg");
     
 
     
